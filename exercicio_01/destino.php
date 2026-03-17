@@ -7,13 +7,13 @@
     <style>
         body {
             font-family: Arial;
-            background-color: #f2f2f2;
+            background-color: #fe9797;
         }
 
         .box {
             background-color: white;
             padding: 20px;
-            border: 1px solid #ccc;
+            border: 1px solid #f77b7b;
             width: 600px;
             margin: 0;
         }
