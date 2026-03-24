@@ -1,0 +1,16 @@
+{
+    "name": "deivid/gera-pdf",
+    "description": "Projeto de geração de PDF com PHP e Composer",
+    "type": "library",
+    "require": {
+        "mpdf/mpdf": "*"
+    },
+    "authors": [
+        {
+            "name": "Deivid",
+            "email": "deividsestrensantos@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
